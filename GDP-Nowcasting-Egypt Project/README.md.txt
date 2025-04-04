@@ -22,4 +22,4 @@ This project was developed as part of a data science use case for a role at the 
 I’m Ali, a data science enthusiast with a deep passion for uncovering insights through data. This project reflects my skills in research, modeling, and storytelling with data.  
 Feel free to reach out or connect!
 
-[LinkedIn](https://www.linkedin.com/in/YOURNAME) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/ali-e-1a2a1320a) | [Email](mailto:elgamala@uni.coventry.ac.uk)
